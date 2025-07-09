@@ -1,1 +1,1 @@
-flask
+web: python aplikasi.py
