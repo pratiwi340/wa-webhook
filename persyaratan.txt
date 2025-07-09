@@ -1,3 +1,0 @@
-# wa-webhook
-Webhook AutoResponder WA
-requirements.txt
